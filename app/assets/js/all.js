@@ -70,7 +70,7 @@ var CurdList = (function () {
   return CurdList;
 }());
 
-
+ 
 
 // instance
 window.addEventListener('DOMContentLoaded', function () {
