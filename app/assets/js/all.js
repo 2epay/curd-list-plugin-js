@@ -31,7 +31,7 @@ var CurdList = (function () {
     var store = localStorage.getItem(storeName);
     try
     {
-      store = JSON.parse(store);
+      store = JSON.parse(store); 
     }
     catch(e)
     {
